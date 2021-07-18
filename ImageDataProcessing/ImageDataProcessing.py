@@ -11,8 +11,11 @@ class ImageDataProcessing:
 
     def rgb2hsl(self):
         # 实现rgb到hsl的转换功能
+        
         # 待填, 对self.path[0]操作
+        
         # 请分别打印self.path[0]的rgb和hsl像素值
+        
         pass
 
     def vague(self):
